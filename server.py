@@ -66,4 +66,5 @@ while True:
   finally:
     log("Connection Closed", addr)
 
+server_socket.close()
 
