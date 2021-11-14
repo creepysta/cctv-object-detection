@@ -1,8 +1,9 @@
 import pickle
 import struct
 import socket
-import cv2
+from cv2 import cv2
 from datetime import datetime
+import sys
 import signal
 signal.signal(signal.SIGINT, signal.SIG_DFL)
 
