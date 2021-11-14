@@ -1,4 +1,4 @@
-env*
+venv/
 log.txt
 *.bak
 tags
