@@ -1,5 +1,5 @@
 import socket
-import cv2
+from cv2 import cv2
 import pickle
 import struct
 import sys
